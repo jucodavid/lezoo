@@ -4,3 +4,4 @@ oui
  git status 
  git pull
  git staging Synchronize
+ https://git-scm.com/
